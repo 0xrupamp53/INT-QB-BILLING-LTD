@@ -1,0 +1,13 @@
+# Website roadmap
+- [x] Elevate site-wide scroll choreography, dimensional hover effects and animated visuals; verify interaction and reduced motion
+- [x] Replace homepage hero with exact PRD copy and automatic interactive demos
+- [x] Match navigation order and add Pricing page with engagement models
+- [x] Expand service pages with deliverables, processes, tools, benefits and motion
+- [x] Add refined scroll reveals and verify autoplay, navigation and responsive layouts
+- [x] Apply the three approved price ranges in order, with the monthly engagement third
+- [x] Strengthen screen pop-up, automatic demo choreography, technology strip and navigation motion; verify controls
+- [x] Slite-style homepage and reusable visual system
+- [x] Services hub and detail pages, work, about, contact, privacy and terms
+- [x] Working enquiry submission
+- [x] Verify navigation, form, and mobile layout
+- [ ] Owner email notifications — requires a verified sender domain and owner email address
